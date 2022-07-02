@@ -30,7 +30,7 @@ https://www.geeksforgeeks.org/memset-c-example/
 And I just copy the main function:
 ![main](https://user-images.githubusercontent.com/84536283/177006007-c04bcf1f-df28-4500-bebd-e805ff374923.png)
 
-Then I paste it this "main" function in the "main.c" project file:
+Then I paste this "main" function in the "main.c" project file:
 ![mai](https://user-images.githubusercontent.com/84536283/177006165-08f7b9cd-6ae5-4168-8eb9-ebea7c0c7049.png)
 
 Now let's move on to the next step
